@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xWRAflg1VQ01fKM7xhGSdORVudQ/S6lCKKilgUkivNpKqJT147heUs+UA9+epHAER4WnQdQ3JYGwHrxyZ7ziYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matic\\Desktop\\ytDownloader\\ytDownloaderWPF\\ytDownloaderWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matic\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Matic\\.nuget\\packages\\youtubedlsharp\\1.1.1\\youtubedlsharp.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
